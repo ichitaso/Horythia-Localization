@@ -70,3 +70,48 @@
 "Save" = "Save";
 "No favorites yet." = "No favorites yet.";
 "Done" = "Done";
+"Set Language" = "Set Language";
+"Language" = "Language";
+"No languages available" = "No languages available";
+"Hide Jailbreak" = "Hide Jailbreak";
+"Hiding jailbreak…" = "Hiding jailbreak…";
+"Restoring…" = "Restoring…";
+"Restore icon layout" = "Restore icon layout";
+"Respring now to restore the icon layout?" = "Respring now to restore the icon layout?";
+"Respring" = "Respring";
+"Later" = "Later";
+"Restore icon layout after hiding" = "Restore icon layout after hiding";
+"After leaving the app, resprings to restore the Home Screen icon layout changed while hidden. Turn off for a faster return without respring." = "After leaving the app, resprings to restore the Home Screen icon layout changed while hidden. Turn off for a faster return without respring.";
+
+/* varClean: jailbreak trace cleaner */
+"Clean Jailbreak Traces" = "Clean Jailbreak Traces";
+"Delete" = "Delete";
+"Select All" = "Select All";
+"Scanning…" = "Scanning…";
+"Cleaning…" = "Cleaning…";
+"No jailbreak traces found." = "No jailbreak traces found.";
+"Permanently delete %lu selected item(s)? This cannot be undone." = "Permanently delete %lu selected item(s)? This cannot be undone.";
+"Removes leftover jailbreak junk under /var that can make detection apps fail even after the jailbreak is removed. Review the list before deleting." = "Removes leftover jailbreak junk under /var that can make detection apps fail even after the jailbreak is removed. Review the list before deleting.";
+"Options" = "Options";
+"Include Horythia's own files" = "Include Horythia's own files";
+"Includes Horythia's own files in the list so they can be removed too. /var/jb (the jailbreak itself) is never touched." = "Includes Horythia's own files in the list so they can be removed too. /var/jb (the jailbreak itself) is never touched.";
+"Update detection rules" = "Update detection rules";
+"Updating rules…" = "Updating rules…";
+"Update rules" = "Update rules";
+"Could not download the latest rules. Check your connection and try again." = "Could not download the latest rules. Check your connection and try again.";
+
+/* Ad Block */
+"Ad Block" = "Ad Block";
+"Block Ads" = "Block Ads";
+"Allow Ads" = "Allow Ads";
+"Block Ads in All Apps" = "Block Ads in All Apps";
+"Filter Lists" = "Filter Lists";
+"Update Filter Lists" = "Update Filter Lists";
+"Updating filter lists…" = "Updating filter lists…";
+"Not downloaded yet. Using the built-in list only." = "Not downloaded yet. Using the built-in list only.";
+"%@ domains · Updated %@" = "%@ domains · Updated %@";
+"Some lists could not be downloaded. The others were applied." = "Some lists could not be downloaded. The others were applied.";
+"Could not download the filter lists. Check your connection and try again." = "Could not download the filter lists. Check your connection and try again.";
+"Blocks ad and tracker domains inside apps. Per-app overrides are in Per-Application settings. Relaunch an app to apply. Ads served from the app's own domain (e.g. YouTube) cannot be blocked." = "Blocks ad and tracker domains inside apps. Per-app overrides are in Per-Application settings. Relaunch an app to apply. Ads served from the app's own domain (e.g. YouTube) cannot be blocked.";
+"Lists are downloaded from their publishers when you tap Update. A small built-in list of major ad SDKs is always used." = "Lists are downloaded from their publishers when you tap Update. A small built-in list of major ad SDKs is always used.";
+"Building rules for web views…" = "Building rules for web views…";

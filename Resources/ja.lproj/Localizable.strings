@@ -1,6 +1,6 @@
 /* Horythia - ja */
 "Enabled" = "有効";
-"No respring is required" = "再起動(Respring)は不要です";
+"No respring is required" = "Respringは不要です";
 "You can also configure the settings from the Force Touch menu." = "Force Touchメニューからも設定できます。";
 "Per-Application settings" = "アプリごとの設定";
 "When you turn on airplane mode automatically, you will be forced to turn on Wi-Fi." = "機内モードを自動でオンにすると、Wi-Fiが強制的にオンになります。";
@@ -34,7 +34,7 @@
 "Email is not set" = "メールが設定されていません";
 "Please set your Email in the Settings app." = "「設定」アプリでメールを設定してください。";
 "Close" = "閉じる";
-"Control your settings when using apps" = "アプリの使用中に設定をコントロール";
+"Control your settings when using apps" = "Control your settings when using apps";
 "Enable Wi-Fi" = "Wi-Fiをオンにする";
 "Disable Wi-Fi" = "Wi-Fiをオフにする";
 "Enable Cellular Data" = "モバイルデータ通信をオンにする";
@@ -70,3 +70,48 @@
 "Save" = "保存";
 "No favorites yet." = "お気に入りはまだありません。";
 "Done" = "完了";
+"Set Language" = "言語を設定";
+"Language" = "言語";
+"No languages available" = "利用できる言語がありません";
+"Hide Jailbreak" = "脱獄を隠す";
+"Hiding jailbreak…" = "脱獄を隠しています…";
+"Restoring…" = "表示に戻しています…";
+"Restore icon layout" = "アイコン配置を復元";
+"Respring now to restore the icon layout?" = "アイコン配置を元に戻すために Respring しますか?";
+"Respring" = "Respring";
+"Later" = "後で";
+"Restore icon layout after hiding" = "Hide後にアイコン配置を復元";
+"After leaving the app, resprings to restore the Home Screen icon layout changed while hidden. Turn off for a faster return without respring." = "アプリを離れた後、非表示中に変わったホーム画面のアイコン配置を戻すために再起動(Respring)します。オフにするとRespringなしで速く戻りますが配置は戻りません。";
+
+/* varClean: 脱獄痕跡クリーナー */
+"Clean Jailbreak Traces" = "脱獄痕跡のクリーン";
+"Delete" = "削除";
+"Select All" = "すべて選択";
+"Scanning…" = "スキャン中…";
+"Cleaning…" = "削除中…";
+"No jailbreak traces found." = "脱獄の痕跡は見つかりませんでした。";
+"Permanently delete %lu selected item(s)? This cannot be undone." = "選択した %lu 件を完全に削除しますか?この操作は取り消せません。";
+"Removes leftover jailbreak junk under /var that can make detection apps fail even after the jailbreak is removed. Review the list before deleting." = "脱獄を削除した後でも検知アプリが開けなくなる原因となる、/var 以下の脱獄ゴミを掃除します。削除前に一覧を確認してください。";
+"Options" = "オプション";
+"Include Horythia's own files" = "Horythia 自身のファイルも含める";
+"Includes Horythia's own files in the list so they can be removed too. /var/jb (the jailbreak itself) is never touched." = "Horythia 自身のファイルも一覧に含めて削除できるようにします。/var/jb(脱獄本体)は決して触りません。";
+"Update detection rules" = "検知ルールを更新";
+"Updating rules…" = "ルールを更新中…";
+"Update rules" = "ルール更新";
+"Could not download the latest rules. Check your connection and try again." = "最新ルールをダウンロードできませんでした。接続を確認して再試行してください。";
+
+/* 広告ブロック */
+"Ad Block" = "広告ブロック";
+"Block Ads" = "広告をブロック";
+"Allow Ads" = "広告を許可";
+"Block Ads in All Apps" = "すべてのアプリで広告をブロック";
+"Filter Lists" = "フィルターリスト";
+"Update Filter Lists" = "フィルターリストを更新";
+"Updating filter lists…" = "フィルターリストを更新中…";
+"Not downloaded yet. Using the built-in list only." = "未ダウンロードです。内蔵リストのみ使用中。";
+"%@ domains · Updated %@" = "%@ ドメイン · 更新 %@";
+"Some lists could not be downloaded. The others were applied." = "一部のリストをダウンロードできませんでした。取得できたものは適用しました。";
+"Could not download the filter lists. Check your connection and try again." = "フィルターリストをダウンロードできませんでした。接続を確認して再試行してください。";
+"Blocks ad and tracker domains inside apps. Per-app overrides are in Per-Application settings. Relaunch an app to apply. Ads served from the app's own domain (e.g. YouTube) cannot be blocked." = "アプリ内で広告・トラッカーのドメインへの通信をブロックします。アプリごとの指定は「アプリごとの設定」で行えます。反映にはアプリの再起動が必要です。YouTube のようにアプリ本体と同じドメインから配信される広告はブロックできません。";
+"Lists are downloaded from their publishers when you tap Update. A small built-in list of major ad SDKs is always used." = "リストは「更新」をタップしたときに各配布元からダウンロードします。主要な広告 SDK の内蔵リストは常に使用します。";
+"Building rules for web views…" = "Web 画面用のルールを作成中…";
