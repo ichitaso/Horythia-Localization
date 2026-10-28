@@ -95,6 +95,7 @@
 "Options" = "옵션";
 "Include Horythia's own files" = "Horythia 자체 파일 포함";
 "Includes Horythia's own files in the list so they can be removed too. /var/jb (the jailbreak itself) is never touched." = "Horythia 자체 파일도 목록에 포함하여 함께 삭제할 수 있게 합니다. /var/jb(탈옥 자체)는 절대 건드리지 않습니다.";
+"Includes Horythia's own files in the list so they can be removed too. Files the jailbreak itself uses (dpkg/apt data) are never touched. On rootful, tweak settings are also under /var, so only items you check are deleted. This is meant for cleaning up before removing the jailbreak (e.g. Restore RootFS). Do not run it during normal use." = "Horythia 자체 파일도 목록에 포함하여 삭제할 수 있게 합니다. 탈옥 자체가 사용 중인 파일(dpkg/apt 데이터)은 절대 건드리지 않습니다. rootful에서는 트윅 설정 파일도 /var에 있으므로 체크한 항목만 삭제합니다. 이 기능은 탈옥을 제거하기 전(Restore RootFS 등)의 정리용입니다. 평소 사용 중에는 실행하지 마세요.";
 "Update detection rules" = "탐지 규칙 업데이트";
 "Updating rules…" = "규칙 업데이트 중…";
 "Update rules" = "규칙 업데이트";

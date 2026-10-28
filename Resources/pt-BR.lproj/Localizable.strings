@@ -95,6 +95,7 @@
 "Options" = "Opções";
 "Include Horythia's own files" = "Incluir arquivos do Horythia";
 "Includes Horythia's own files in the list so they can be removed too. /var/jb (the jailbreak itself) is never touched." = "Inclui os arquivos do Horythia na lista para que também possam ser removidos. /var/jb (o próprio jailbreak) nunca é tocado.";
+"Includes Horythia's own files in the list so they can be removed too. Files the jailbreak itself uses (dpkg/apt data) are never touched. On rootful, tweak settings are also under /var, so only items you check are deleted. This is meant for cleaning up before removing the jailbreak (e.g. Restore RootFS). Do not run it during normal use." = "Inclui na lista os próprios arquivos do Horythia para que também possam ser removidos. Os arquivos usados pelo próprio jailbreak (dados do dpkg/apt) nunca são tocados. No rootful, as configurações dos tweaks também ficam em /var, então só os itens marcados são excluídos. Isto serve para limpar antes de remover o jailbreak (ex.: Restore RootFS). Não execute durante o uso normal.";
 "Update detection rules" = "Atualizar regras de detecção";
 "Updating rules…" = "Atualizando regras…";
 "Update rules" = "Atualizar regras";

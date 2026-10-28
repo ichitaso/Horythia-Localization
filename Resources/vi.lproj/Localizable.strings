@@ -95,6 +95,7 @@
 "Options" = "Tùy chọn";
 "Include Horythia's own files" = "Bao gồm tệp của Horythia";
 "Includes Horythia's own files in the list so they can be removed too. /var/jb (the jailbreak itself) is never touched." = "Đưa các tệp của Horythia vào danh sách để có thể xóa luôn. /var/jb (bản thân jailbreak) không bao giờ bị động đến.";
+"Includes Horythia's own files in the list so they can be removed too. Files the jailbreak itself uses (dpkg/apt data) are never touched. On rootful, tweak settings are also under /var, so only items you check are deleted. This is meant for cleaning up before removing the jailbreak (e.g. Restore RootFS). Do not run it during normal use." = "Đưa cả các tệp của chính Horythia vào danh sách để có thể xóa chúng. Các tệp mà bản jailbreak đang dùng (dữ liệu dpkg/apt) không bao giờ bị động đến. Trên rootful, cài đặt của tweak cũng nằm trong /var, nên chỉ những mục bạn chọn mới bị xóa. Tính năng này dùng để dọn dẹp trước khi gỡ jailbreak (ví dụ Restore RootFS). Đừng chạy khi sử dụng bình thường.";
 "Update detection rules" = "Cập nhật quy tắc phát hiện";
 "Updating rules…" = "Đang cập nhật quy tắc…";
 "Update rules" = "Cập nhật quy tắc";

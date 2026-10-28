@@ -95,6 +95,7 @@
 "Options" = "ตัวเลือก";
 "Include Horythia's own files" = "รวมไฟล์ของ Horythia";
 "Includes Horythia's own files in the list so they can be removed too. /var/jb (the jailbreak itself) is never touched." = "รวมไฟล์ของ Horythia ไว้ในรายการเพื่อให้ลบได้ด้วย /var/jb (ตัวเจลเบรกเอง) จะไม่ถูกแตะต้อง";
+"Includes Horythia's own files in the list so they can be removed too. Files the jailbreak itself uses (dpkg/apt data) are never touched. On rootful, tweak settings are also under /var, so only items you check are deleted. This is meant for cleaning up before removing the jailbreak (e.g. Restore RootFS). Do not run it during normal use." = "รวมไฟล์ของ Horythia เองไว้ในรายการเพื่อให้ลบได้ด้วย ไฟล์ที่เจลเบรกใช้งานอยู่ (ข้อมูล dpkg/apt) จะไม่ถูกแตะต้องเลย ใน rootful การตั้งค่าของทวีกก็อยู่ใน /var ด้วย จึงลบเฉพาะรายการที่คุณเลือกเท่านั้น ฟีเจอร์นี้มีไว้สำหรับล้างข้อมูลก่อนลบเจลเบรก (เช่น Restore RootFS) อย่าใช้งานในระหว่างการใช้งานปกติ";
 "Update detection rules" = "อัปเดตกฎการตรวจจับ";
 "Updating rules…" = "กำลังอัปเดตกฎ…";
 "Update rules" = "อัปเดตกฎ";

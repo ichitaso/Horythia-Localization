@@ -95,6 +95,7 @@
 "Options" = "選項";
 "Include Horythia's own files" = "包含 Horythia 本身的檔案";
 "Includes Horythia's own files in the list so they can be removed too. /var/jb (the jailbreak itself) is never touched." = "將 Horythia 本身的檔案也列入列表以便一併刪除。/var/jb(越獄本身)絕不會被更動。";
+"Includes Horythia's own files in the list so they can be removed too. Files the jailbreak itself uses (dpkg/apt data) are never touched. On rootful, tweak settings are also under /var, so only items you check are deleted. This is meant for cleaning up before removing the jailbreak (e.g. Restore RootFS). Do not run it during normal use." = "將 Horythia 自身的檔案也加入列表以便刪除。越獄本身正在使用的檔案(dpkg/apt 資料)絕不會被更動。在 rootful 下插件的設定檔也位於 /var,因此只刪除你勾選的項目。此功能用於移除越獄前(如 Restore RootFS)的清理。日常使用時請勿執行。";
 "Update detection rules" = "更新偵測規則";
 "Updating rules…" = "正在更新規則…";
 "Update rules" = "更新規則";
